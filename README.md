@@ -23,4 +23,4 @@ Python, OpenCV, TensorFlow/Keras
 4. Performance evaluation
 
 live working demo:
-https://github.com/Rithwika-Sai/exoplanet-transit-detection-cnn.git
+https://emotion-prototype-mqzbxphdszki5pey8cuhlp.streamlit.app/
